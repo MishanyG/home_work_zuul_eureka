@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>home_work_service</name>
 	<description>Home_work_service project</description>
+	<packaging>jar</packaging>
 
 	<properties>
 		<java.version>11</java.version>
